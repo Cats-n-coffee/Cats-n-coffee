@@ -5,6 +5,7 @@ I just finished a batch at the Recurse Center where I worked on various projects
 <br>
 🔭 I’m currently working on [LittleNodeBrowser](https://github.com/Cats-n-coffee/littleNodeBrowser), a very simplied version of a web browser.<br>
 🌱 I’m currently learning about SQL using SQLite :dolphin:.<br>
+<br>
 Checkout [My codesandbox](https://codesandbox.io/u/Cats-n-coffee), where I will now have my small frontend projects.<br>
 <br>
 ⚡ Fun fact: As a former Fitness/ Personal Trainer I spent years in the Fitness and Wellness industry, before becoming a Physical Therapist Assistant for a (very) short amount of time.<br>
