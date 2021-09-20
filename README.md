@@ -7,7 +7,8 @@ I just finished a batch at the Recurse Center where I worked on various projects
 🔭 I’m currently working on [LittleNodeBrowser](https://github.com/Cats-n-coffee/littleNodeBrowser), a very simplied version of a web browser.<br>
 🌱 I’m currently learning about:
 - SQL using PostgreSQL.
-- Testing using Jest and React Testing Library.
+- Frontend testing using Jest, React Testing Library and Cypress for E2E.
+- Backend testing using Jest and Supertest.
 - React on a deeper level with the [Epic React Course](https://epicreact.dev/) :rocket:.
 
 <br>
