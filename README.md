@@ -4,7 +4,7 @@ I am a web developer who enjoys working on challenging projects, and also relax 
 I just finished a batch at the Recurse Center where I worked on various projects, and learned (more than I expected) about some Computer Science topics as well as React, JavaScript, NodeJs and networking. <br>
 <br>
 
-🔭 I’m currently working on [LittleNodeBrowser](https://github.com/Cats-n-coffee/littleNodeBrowser), a very simplied version of a web browser.<br>
+🔭 I’m currently working on a [React Visualizer Tool](https://github.com/Cats-n-coffee/react-visualizer-tool), a tool to visualize a React project in the form of  a tree of components.<br>
 🌱 I’m currently learning about:
 - SQL using PostgreSQL.
 - Frontend testing using Jest, React Testing Library and Cypress for E2E.
