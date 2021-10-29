@@ -13,7 +13,7 @@ I am currently volunteering at The Programming Foundation and helping with some 
 
 <br>
 
-Checkout [My codesandbox](https://codesandbox.io/u/Cats-n-coffee), where I will now have my small frontend projects and small exercises/features.<br>
+Checkout [My codesandbox](https://codesandbox.io/u/Cats-n-coffee), for my small frontend projects and exercises/features.<br>
 
 <br>
 
