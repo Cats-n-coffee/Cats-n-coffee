@@ -1,19 +1,19 @@
 ### Hi there, I'm Lucie 👋
 
-I am a web developer who enjoys working on challenging projects, and also relax with simple and short projects or exercises :massage_woman:. <br>
+I am a web developer who enjoys working on challenging projects by collaborating or working on my own. <br>
 I just finished a batch at the Recurse Center where I worked on various projects, and learned (more than I expected) about some Computer Science topics as well as React, JavaScript, NodeJs and networking. <br>
+I am currently volunteering at The Programming Foundation and helping with some frontend tasks for their Learn platform.
 <br>
 
 🔭 I’m currently working on a [React Visualizer Tool](https://github.com/Cats-n-coffee/react-visualizer-tool), a tool to visualize a React project in the form of  a tree of components.<br>
 🌱 I’m currently learning about:
-- SQL using PostgreSQL.
 - Frontend testing using Jest, React Testing Library and Cypress for E2E.
 - Backend testing using Jest and Supertest.
 - React on a deeper level with the [Epic React Course](https://epicreact.dev/) :rocket:.
 
 <br>
 
-Checkout [My codesandbox](https://codesandbox.io/u/Cats-n-coffee), where I will now have my small frontend projects and small exercises.<br>
+Checkout [My codesandbox](https://codesandbox.io/u/Cats-n-coffee), where I will now have my small frontend projects and small exercises/features.<br>
 
 <br>
 
