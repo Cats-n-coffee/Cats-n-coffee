@@ -5,10 +5,10 @@ I just finished a batch at the Recurse Center where I worked on various projects
 I am currently volunteering at The Programming Foundation and helping with some frontend tasks for their Learn platform.
 <br>
 
-🔭 I’m currently working on a [React Visualizer Tool](https://github.com/Cats-n-coffee/react-visualizer-tool), a tool to visualize a React project in the form of  a tree of components.<br>
+🔭 I’m currently working on a [Tree Visualizer Tool](https://github.com/Cats-n-coffee/tree-visualizer), a tool to visualize a React project in the form of  a tree of components.<br>
 🌱 I’m currently learning about:
 - Frontend testing using Jest, React Testing Library and Cypress for E2E.
-- Backend testing using Jest and Supertest.
+- Typescript.
 - React on a deeper level with the [Epic React Course](https://epicreact.dev/) :rocket:.
 
 <br>
