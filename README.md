@@ -19,9 +19,6 @@ Checkout [My codesandbox](https://codesandbox.io/u/Cats-n-coffee), for my small 
 
 ⚡ Fun fact: As a former Fitness/ Personal Trainer I spent years in the Fitness and Wellness industry, before becoming a Physical Therapist Assistant for a (very) short amount of time.<br>
 
-### Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cats-n-coffee)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--
 **Cats-n-coffee/Cats-n-coffee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
