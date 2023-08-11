@@ -4,9 +4,9 @@ I enjoy working on challenging projects by collaborating or working on my own. I
 I currently work as a Frontend Developer and solve cool problems that help people, making the world more open every day. 
 <br>
 
-🔭 I’m currently working on a simple desktop UI for Dall-E using Electron<br>
+🔭 I’m currently working on a simple desktop UI for Dall-E using Electron. I poke around various Desktop app tools to learn how they work and play with other languages.<br>
 🌱 I’m currently learning about:
-- Electron, VueJs and browser extensions
+- Electron, VueJs and Browser Extensions 
 - Browser rendering and browser engines by reading and watching various Chromium and Blink resources
 - Devops and random backend things
 
