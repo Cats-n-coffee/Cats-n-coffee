@@ -1,15 +1,14 @@
 ### Hi there, I'm Lucie 👋
 
-I am a web developer who enjoys working on challenging projects by collaborating or working on my own. <br>
-I just finished a batch at the Recurse Center where I worked on various projects, and learned (more than I expected) about some Computer Science topics as well as React, JavaScript, NodeJs and networking. <br>
-I am currently volunteering at The Programming Foundation and helping with some frontend tasks for their Learn platform.
+I enjoy working on challenging projects by collaborating or working on my own. I have a weird obsession with user interfaces and all things visual. Sprinkle a little logic and I'm strangely attracted (rabbit holes warning).<br>
+I currently work as a Frontend Developer and solve cool problems that help people, making the world more open every day. 
 <br>
 
-🔭 I’m currently working on a [Tree Visualizer Tool](https://github.com/Cats-n-coffee/tree-visualizer), a tool to visualize a React project in the form of  a tree of components.<br>
+🔭 I’m currently working on a simple desktop UI for Dall-E using Electron<br>
 🌱 I’m currently learning about:
-- Frontend testing using Jest, React Testing Library and Cypress for E2E.
-- Typescript.
-- React on a deeper level with the [Epic React Course](https://epicreact.dev/) :rocket:.
+- Electron, VueJs and browser extensions
+- Browser rendering and browser engines by reading and watching various Chromium and Blink resources
+- Devops and random backend things
 
 <br>
 
@@ -17,7 +16,7 @@ Checkout [My codesandbox](https://codesandbox.io/u/Cats-n-coffee), for my small 
 
 <br>
 
-⚡ Fun fact: As a former Fitness/ Personal Trainer I spent years in the Fitness and Wellness industry, before becoming a Physical Therapist Assistant for a (very) short amount of time.<br>
+⚡ Fun fact: As a former Fitness/ Personal Trainer I spent years in the Fitness and Wellness industry, before becoming a Physical Therapist Assistant and deciding that healthcare wasn't for me.<br>
 
 <!--
 **Cats-n-coffee/Cats-n-coffee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
