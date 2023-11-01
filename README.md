@@ -13,11 +13,6 @@ I currently work as a Frontend Developer and solve cool problems that help peopl
 <br>
 
 Checkout [My codesandbox](https://codesandbox.io/u/Cats-n-coffee), for my small frontend projects and exercises/features.<br>
-
-<br>
-
-⚡ Fun fact: As a former Fitness/ Personal Trainer I spent years in the Fitness and Wellness industry, before becoming a Physical Therapist Assistant and deciding that healthcare wasn't for me.<br>
-
 <!--
 **Cats-n-coffee/Cats-n-coffee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
