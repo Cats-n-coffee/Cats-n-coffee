@@ -1,10 +1,5 @@
-### Hi there, I'm Lucie 👋
+### Hi there 👋
 
-I have a weird obsession with user interfaces and all things visual.<br>
-I currently work as a Frontend Developer and solve cool problems that help people, making the world more open every day. 
-<br>
-
-Checkout [My codesandbox](https://codesandbox.io/u/Cats-n-coffee), for my small frontend projects and exercises/features.<br>
 My new blog still under construction is [here](https://blog.catsncoffee.xyz).
 <!--
 **Cats-n-coffee/Cats-n-coffee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
